@@ -4,7 +4,7 @@ define:
 eureka:
   client:
     serviceUrl:
-      defaultZone: http://192.168.1.140:8888/eureka/   #连接的 eureka 服务器地址
+      defaultZone: http://192.168.1.140:8805/eureka/   #连接的 eureka 服务器地址
 spring:
   cloud:
     stream:
