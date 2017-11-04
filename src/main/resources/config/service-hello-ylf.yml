@@ -3,7 +3,7 @@ define:
     type: com.alibaba.druid.pool.DruidDataSource
     write:
       driverClassName: com.mysql.jdbc.Driver
-      url: jdbc:mysql://192.168.1.33:3309/najutest
+      url: jdbc:mysql://192.168.1.33:3306/najutest
       username: root
       password: root
       initialSize: 5
